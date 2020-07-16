@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name's Taylor and I'm super excited to start contributing to GitHub!
